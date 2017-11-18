@@ -21,6 +21,7 @@ for (int counter = 0; counter < elements; counter++)
 }
 
 free(array);
-
+//test
+//test
 return 0;
 }
